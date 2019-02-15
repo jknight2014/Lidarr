@@ -47,3 +47,6 @@ Lidarr is a PVR for Usenet and BitTorrent users. It can monitor multiple RSS fee
 
 * [GNU GPL v3](http://www.gnu.org/licenses/gpl.html)
 * Copyright 2010-2017
+
+[Tour Quảng Bình](http://tourquangbinh.vn) là hành trình đến những điểm tham quan nức tiếng 
+
